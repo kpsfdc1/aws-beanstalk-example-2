@@ -10,6 +10,6 @@ public class HelloController {
 
     @GetMapping
     public String hello() {
-        return "test change for aws build..";
+        return "test change for aws build two..";
     }
 }
