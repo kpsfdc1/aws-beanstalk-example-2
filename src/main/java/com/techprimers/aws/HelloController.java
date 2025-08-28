@@ -10,6 +10,6 @@ public class HelloController {
 
     @GetMapping
     public String hello() {
-        return "update code";
+        return "test cpommit for aws";
     }
 }
